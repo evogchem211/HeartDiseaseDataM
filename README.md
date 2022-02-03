@@ -1,2 +1,2 @@
 # HeartDiseaseDataM
-The analysis of a dataset form 1988 about heart disease. 
+The analysis of a dataset from 1988 about heart disease. 
